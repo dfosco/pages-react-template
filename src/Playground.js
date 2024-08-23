@@ -42,7 +42,7 @@ function Playground() {
                 }}
             >
                 <CodeLine icon={CheckIcon} iconColor="success.fg">
-                    Mona's playground successfully initialised...
+                    Mona's playground successfully initialised... banana!
                 </CodeLine>
                 <CodeLine icon={CommentIcon} iconColor="accent.fg">
                     Visit <Text color="text.warning">src/Playground.js</Text>{' '}
