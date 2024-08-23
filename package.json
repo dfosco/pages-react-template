@@ -1,5 +1,6 @@
 {
     "name": "primer-react-template",
+    "homepage": "https://dfosco.github.io/pages",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
